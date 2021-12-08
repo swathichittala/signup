@@ -1,0 +1,66 @@
+body{
+    background-color: thistle;
+    align-items: center;
+}.form-box{
+    width: 280px;
+    height: 80%;
+    padding: 15px;
+    margin: auto;
+    background-color:white;
+    text-align: center;
+     
+    align-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.font{
+    font-family:'MV Boli';
+}
+ 
+
+form label{
+    margin-top: 1px;
+    font-size: 20px;
+    display:flex;
+}        
+form input{
+    width: 80%;
+    height: 10%;
+    padding: 5px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    margin-bottom: 4%;
+}
+   
+.name{
+    width: 100%;
+    height: 20%;
+}
+.form label{
+    border-top: black;
+    border-top:black;
+    
+   margin-bottom: 20px;
+   border-color: rgb(17, 17, 11);
+}
+
+input[type="button"]
+   { 
+       width:50%;
+       height: 10%;
+       background-color: rgb(66, 224, 18);
+   }
+      
+
+    
+.login{
+    width: 280px;
+    height: 300px;
+    padding: 15px;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    align-content: center;
+    margin-top: 1px;
+
+}

@@ -1,0 +1,56 @@
+body{
+    background-color:rgb(226, 213, 222);
+}
+
+.signup-box{
+    position: relative;
+    width: 300px;
+    height: 500px;
+    margin: 5%;
+    background-color: azure;
+    align-content: center;
+}
+.h1{
+    text-align: center;
+}
+ form {
+    width:300px;
+    margin-left: 500px;
+    
+ } 
+ 
+ form label{
+margin-top: 1px;
+font-size: 20px;
+    
+}
+form input{
+    width: 100%;
+    padding: 5px;
+    border-color: black;
+
+    border-radius: 10px;
+    
+    margin-bottom: 4%;
+}
+input[type="button"]
+{
+   width:200px;
+   height:30px;
+   color:white;
+   background-color: green; 
+   margin-bottom: 20px;
+   border-top-color: gray ;
+   border-bottom-color:gray;
+   border-left: gray;
+   border-right: gray;
+}
+
+
+h3{
+    text-align: center;
+}
+#login{
+    text-align: center;
+}
+    
